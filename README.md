@@ -1,6 +1,5 @@
-# parasail
-automatisasi check-in
-automatisasi run node
+# Parasail
+
 ## 1. Clone Repositori
 Jalankan perintah berikut di terminal:
 
